@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nippppp100
+- 👋 Hi, I’m nippppp
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ASU
 - 💞️ I’m looking to collaborate on ...
